@@ -3,6 +3,9 @@ MPy150
 
 version 1.1.2 (05-Sep-2014)
 
+**NOTE:** Because BIOPAC wasn't too thrilled about having mpdev.dll
+online for free, it is not included with this library. You have to buy it.
+And then you can add it to the MPy150 folder. Sorry.
 
 All Python bits are developed by Edwin Dalmaijer. mpdev.dll (version 2.1) is a
 proprietary library, created by [BIOPAC Systems, Inc.](http://www.biopac.com/)
